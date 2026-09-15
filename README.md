@@ -95,18 +95,18 @@
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 My GitHub Statistics</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaenir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaenir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shaenir&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaenir&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution Graph"/>
-</p>
+</p> -->
 
 <!-- ================= SNAKE ANIMATION (needs the GitHub Action file) ================= -->
 <p align="center">
