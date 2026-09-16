@@ -53,9 +53,9 @@
   <a href="https://www.facebook.com/upekha.shaeni/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="48" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/im.shaeni.00/" target="_blank">
+  <!-- <a href="https://www.instagram.com/im.shaeni.00/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/>
-  </a>
+  </a> -->
   <a href="https://medium.com/@upekharasnayaka" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/medium/white"/>
